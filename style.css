@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:blanchedalmond;
+}
+
+.main-title { 
+    color: darkred;
+    font-size: 36px;
+}
+
+.recipelist {
+    font-size: 18px;
+}
+
+.recipetitle{
+    color: darkblue;
+}
+ .recipeimage {
+    width: 400px;
+    height: auto;
+ }
